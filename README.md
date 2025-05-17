@@ -30,9 +30,8 @@ $ ls
 
 $ python2 gplay.py
 
---User Id :
 
---Password :
+
 
 ## ***Tool key***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
